@@ -27,7 +27,7 @@ def display_title():
         print(Fore.RED + centered_title + Style.RESET_ALL)
     
     print()
-    developer_text = "developed by @85rx"
+    developer_text = "developed by @maletadev"
     centered_developer_text = developer_text.center(width)
     print(Fore.RED + centered_developer_text + Style.RESET_ALL)
 
@@ -75,3 +75,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
